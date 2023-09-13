@@ -1,1 +1,1 @@
-This is the Repository for creating an webpage through using Bootstrap. 
+This is the Repository created with Bootstrap about a Whiskey delivery business.  
